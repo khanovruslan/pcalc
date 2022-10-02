@@ -23,5 +23,3 @@ elif q == 4:
     
 else:
     print('wrong operation')
-
-# ЫЫЫЫ
